@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChatUp</string>
+    <string name="exit_but">Exit</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_login">Name or Email</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="forgot_account_or_password">Forgot account or password?</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password2">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="accept_regulations">Accept regulations</string>
+    <string name="button">Button</string>
+    <string name="checkbox1">Accept ChatUp regulations</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="checkbox2">I agree to receive messages from ChatUp</string>
+    <string name="sign_out">Button</string>
+    <string name="error_invalid_password">At least 4 characters</string>
+</resources>
